@@ -33,7 +33,7 @@ def start_program() -> None:
         except (InvalidPositionError, RobotHasNotBeenPlacedError):
             print("Ignored the command since it is an invalid move")
         except KeyboardInterrupt:
-            print("\nSee you later")
+            print("\nGood Bye!!!!")
             return
         except Exception as e:
             print(f"Unknown error: {e}")
