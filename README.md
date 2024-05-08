@@ -53,14 +53,6 @@ Any move that would cause the robot to fall must be ignored.
        REPORT
        Output: 0,0,WEST
 
-    c) PLACE 1,2,EAST
-       MOVE
-       MOVE
-       LEFT
-       MOVE
-       REPORT
-       Output: 3,3,NORTH
-
 ## Installation
 
 System requirements:
