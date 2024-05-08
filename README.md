@@ -66,11 +66,6 @@ Any move that would cause the robot to fall must be ignored.
 System requirements:
 
 - Python 3.8.7 or above
-- [poetry](https://python-poetry.org/)
-
-Install all dependencies with `poetry install`. It will also create a virtualenv for us to work on this project.
-Activate the virtualenv, if not yet already, by executing `poetry shell`.
-
 
 ## Run tests
 
